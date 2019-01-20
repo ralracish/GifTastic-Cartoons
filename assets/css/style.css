@@ -1,0 +1,31 @@
+#buttons-view{
+    line-height: 1.5;
+    margin-right:5px;
+
+    color:darkblue
+}
+.cartoon-btn{
+    border-radius: 25px;
+    background-color:lightblue;
+    margin-right:10px;
+    margin-bottom: 10px;
+}
+h1{
+    font-weight: bold;
+    text-shadow: 3px 2px blue;
+}
+form{
+    margin-top: 20px;
+    float:right;
+}
+#add-cartoon{
+    margin-top:5px;
+    margin-left:5px;
+}
+
+.gif{
+    border-radius: 15px;
+    margin-right:10px;
+    margin-top:20px;
+    float:left;
+}
