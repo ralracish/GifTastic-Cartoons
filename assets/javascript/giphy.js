@@ -56,7 +56,7 @@ $(document).ready(function () {
                         gifImg.attr("src", element.images.fixed_height_still.url);
                         gifImg.attr("data-state", "still")
                         gifImg.attr("data-still", element.images.fixed_height_still.url)
-                        gifImg.attr("data-animate", element.images.original.url)
+                        gifImg.attr("data-animate", element.images.fixed_height.url)
                         // string interpolation: 
                         // Prepend to new wrapper first and then add wrapper to #cities-view
                         $(gifWrapper).prepend(`<p>Rating: ${element.rating.toUpperCase()}</p>`);
